@@ -22,7 +22,7 @@ An application that lets a player create a custom insect character: [Adopt-An-In
 
 ## Shift Cipher
 ![Image](https://snipboard.io/srnuAx.jpg)
-is an application that encodes and decodes using a simple substitution cipher.
+An application that encodes and decodes using a simple substitution cipher.
 
 ## Trivia Game
 ![Image](https://snipboard.io/oi2hVI.jpg)
