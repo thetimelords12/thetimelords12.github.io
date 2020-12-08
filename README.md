@@ -21,11 +21,16 @@ A game that demonstrates object-oriented programming principles inheritance, enc
 An application that lets a player create a custom insect character: [Adopt-An-Insect]
 
 ## Shift Cipher
+
 ![Image](https://snipboard.io/srnuAx.jpg)
+
 An application that encodes and decodes using a simple substitution cipher.
 
 ## Trivia Game WPF
+
 ![Image](https://snipboard.io/0C1brq.jpg)
+
 ![Image](https://snipboard.io/vXCqbp.jpg)
+
 ![Image](https://snipboard.io/Y64S3W.jpg)
 The application showcases progress in the forms of WPF and how it can be utilized in things such as this.
