@@ -24,6 +24,8 @@ An application that lets a player create a custom insect character: [Adopt-An-In
 ![Image](https://snipboard.io/srnuAx.jpg)
 An application that encodes and decodes using a simple substitution cipher.
 
-## Trivia Game
-![Image](https://snipboard.io/oi2hVI.jpg)
-An apllication that showcases your skills at recording the player/user input.
+## Trivia Game WPF
+![Image](https://snipboard.io/0C1brq.jpg)
+![Image](https://snipboard.io/vXCqbp.jpg)
+![Image](https://snipboard.io/Y64S3W.jpg)
+The application showcases progress in the forms of WPF and how it can be utilized in things such as this.
